@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Maryna from Kraków, Poland.
+I'm Maryna 
+
+I'm from Belarus, but I'm currently living in Kraków, Poland
 
 I'm working as Senior QA Engineer at [Profitero](https://www.profitero.com)
 

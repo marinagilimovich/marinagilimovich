@@ -7,10 +7,14 @@ I'm working as Senior QA Engineer at [Profitero](https://www.profitero.com)
 I'm a student of [QA.Guru](https://qa.guru/) school
 
 
+
 My graduation project --> https://github.com/marinagilimovich/qa_guru_final 
 
 
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=marinagilimovich)](https://github.com/marinagilimovich/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinagilimovich)](https://github.com/marinagilimovich/github-readme-stats)
+
 
 
 <!--

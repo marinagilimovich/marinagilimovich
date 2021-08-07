@@ -4,12 +4,6 @@ I'm Maryna
 
 I'm from Belarus, but I'm currently living in Kraków, Poland
 
-I'm working as Senior QA Engineer at [Profitero](https://www.profitero.com)
-
-I'm a student of [QA.Guru](https://qa.guru/) school
-
-
-
 My graduation project --> https://github.com/marinagilimovich/qa_guru_final 
 
 
